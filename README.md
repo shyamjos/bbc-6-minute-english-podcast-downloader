@@ -29,4 +29,4 @@ To run the script
 
 # Screenshot
 
-![demo](https://i.imgur.com/D5oxprO.png)
+![demo](https://i.imgur.com/MrTaqe6.png)
