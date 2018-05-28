@@ -15,9 +15,11 @@ A python script for downloading BBC 6 Minute English, Vocabulary, Grammar Podcas
 # How to Install 
 
 Makesure python 3 is installed 
+
 `python3 -V`
 
 Install required python libraries using pip
+
 `pip install -r requirements.txt`
 
 To run the script 
@@ -27,3 +29,4 @@ To run the script
 
 # Screenshot
 
+![demo](https://i.imgur.com/D5oxprO.png)
